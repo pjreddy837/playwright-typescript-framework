@@ -10,7 +10,7 @@
     "lint": "tsc --noEmit"
   },
   "devDependencies": {
-    "@playwright/test": "^1.56.0",
+    "@playwright/test": "^1.65.1",
     "@types/node": "^22.0.0",
     "typescript": "^5.7.0"
   }
